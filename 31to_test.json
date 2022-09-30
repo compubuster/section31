@@ -1,12 +1,11 @@
 {
    "markers" : [
-     
       {
-         "pin" : "carrier",
-         "text" : "This is a sample marker too!",
-         "x" : -247.812,
-         "y" : -43.8438,
-         "z" : 64.0312
+         "pin" : "coriolis",
+         "text" : "AHAUT",
+         "x" : 51.21875,
+         "y" : -246.125,
+         "z" : -42.15625
       }
    ]
 }
